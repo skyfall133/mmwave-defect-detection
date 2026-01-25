@@ -24,7 +24,7 @@ Designed and built a portable scanning platform integrating:
   - Precision positioning**:** 0.8mm step size (sub-wavelength sampling)
   - **Speed**: 20 mm/s with minimal vibration noise
 
-📁 **Code**: `/hardware/`, `/radar_control/`
+📁 **Code**: `/hardware/radar_control/`, `/hardware/data_acquisition/`, `/hardware/motion_control/`
 
 ### 2. **SAR Image Reconstruction**
 

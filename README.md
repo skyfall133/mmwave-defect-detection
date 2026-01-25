@@ -1,6 +1,6 @@
 # mmWave SAR Defect Detection System
 
-**My Contribution: Hardware Design, Motion Control, Signal Processing, & Image Reconstruction**
+**This mmWave SAR imaging system was developed as a collaborative research project between Inha University (South Korea) and University of Southern California (USA).**
 
 > Part of collaborative research published in IEEE Access 2025
 > DOI: [10.1109/ACCESS.2025.3531913]
@@ -9,9 +9,9 @@
 
 Internal defect detection in manufacturing requires expensive, slow equipment. This project demonstrates a using mmWave radar achieving **91.7% accuracy**.
 
-**This repository showcases my specific contributions** to the hardware and signal processing components of the complete system.
+**This repository showcases my contributions** to the **hardware**, **signal processing**, and **image reconstruction** components of the complete system.
 
-## 🔧 My Contributions
+## 🔧 My Contributions (Inha)
 
 ### 1. **Compact mmWave Radar System Design**
 
@@ -61,6 +61,14 @@ components using domain-informed basis functions.
 
 For details on PISSD implementation, see the published paper or contact
 the USC team.
+
+## Collaboration Model
+
+This project demonstrates hardware-software co-design:
+
+- **Inha (Hardware)**: Built the physical scanning system and preprocessing
+- **USC (Software)**: Developed the automated detection algorithms
+- **Joint**: Experimental validation and paper writing
 
 ## 🛠️ Technical Skills Demonstrated
 

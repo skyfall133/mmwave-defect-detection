@@ -21,7 +21,7 @@ Designed and built a portable scanning platform integrating:
 - DCA1000 high-speed data acquisition module
 - Dual-rail motorized scanning platform (200×200mm aperture)
   - **Real-time synchronization** between motor position and radar chirps
-  - Precision positioning**:** 0.8mm step size (sub-wavelength sampling)
+  - **Precision positioning**: 0.8mm step size (sub-wavelength sampling)
   - **Speed**: 20 mm/s with minimal vibration noise
 
 📁 **Code**: `/hardware/radar_control/`, `/hardware/data_acquisition/`, `/hardware/motion_control/`

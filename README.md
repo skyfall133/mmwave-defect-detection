@@ -9,6 +9,8 @@
 
 Internal defect detection in manufacturing requires expensive, slow equipment. This project demonstrates a using mmWave radar achieving **91.7% accuracy**.
 
+![alt text](<hardware/radar_control/photos/Overview of a complete mmWave imaging system.png>)
+
 **This repository showcases my contributions** to the **hardware**, **signal processing**, and **image reconstruction** components of the complete system.
 
 ## 🔧 My Contributions (Inha)

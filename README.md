@@ -80,7 +80,6 @@ This project demonstrates hardware-software co-design:
 
 - mmWave radar system integration
 - Motorized scanning platform design
-- Sensor-actuator synchronization
 
 ### Signal Processing
 

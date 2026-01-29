@@ -5,15 +5,17 @@
 > Part of collaborative research published in IEEE Access 2025
 > DOI: [10.1109/ACCESS.2025.3531913]
 
-## 🎯 Project Context
+## Project Context
 
 Internal defect detection in manufacturing requires expensive, slow equipment. This project demonstrates a using mmWave radar achieving **91.7% accuracy**.
 
 ![alt text](<hardware/radar_control/photos/Overview of a complete mmWave imaging system.png>)
+![alt text](<hardware/mmWave scanning & acquisition.png>)
+
 
 **This repository showcases my contributions** to the **hardware**, **signal processing**, and **image reconstruction** components of the complete system.
 
-## 🔧 My Contributions (Inha)
+## My Contributions (Inha)
 
 ### 1. **Compact mmWave Radar System Design**
 
@@ -47,7 +49,7 @@ Developed and validated wavelet-based noise reduction algorithm:
 
 📁 **Code**: `/signal_processing/wavelet_denoising/`
 
-## 🤝 Collaborative Components
+## Collaborative Components
 
 ### Defect Detection Algorithm (USC Team)
 
@@ -72,7 +74,7 @@ This project demonstrates hardware-software co-design:
 - **USC (Software)**: Developed the automated detection algorithms
 - **Joint**: Experimental validation and paper writing
 
-## 🛠️ Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 ### Hardware Engineering
 

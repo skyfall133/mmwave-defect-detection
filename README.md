@@ -54,8 +54,7 @@ Developed and validated wavelet-based noise reduction algorithm:
 ### Defect Detection Algorithm (USC Team)
 
 The automated defect localization using Process-Informed Smooth Sparse
-Decomposition (PISSD) was developed by **Weizhi Lin and Qiang Huang**
-at University of Southern California.
+Decomposition (PISSD) was developed by University of Southern California.
 
 **My role**: Provided SAR images and experimental data; collaborated on
 algorithm validation.
@@ -70,7 +69,7 @@ the USC team.
 
 This project demonstrates hardware-software co-design:
 
-- **Inha (Hardware)**: Built the physical scanning system and preprocessing
+- **Inha (Hardware)**: Built the physical scanning system and image preprocessing
 - **USC (Software)**: Developed the automated detection algorithms
 - **Joint**: Experimental validation and paper writing
 

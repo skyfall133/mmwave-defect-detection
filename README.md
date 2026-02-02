@@ -28,7 +28,7 @@ Designed and built a portable scanning platform integrating:
   - **Precision positioning**: 0.8mm step size (sub-wavelength sampling)
   - **Speed**: 20 mm/s with minimal vibration noise
 
-📁 **Code**: `/hardware/radar_control/`, `/hardware/data_acquisition/`, `/hardware/motion_control/`
+<!-- 📁 **Code**: `/hardware/radar_control/`, `/hardware/data_acquisition/`, `/hardware/motion_control/` -->
 
 ### 2. **SAR Image Reconstruction**
 
@@ -38,7 +38,7 @@ Implemented **Range Migration Algorithm** for near-field SAR imaging:
 - Matched filtering for focused image formation
 - Near-field approximations for sub-wavelength resolution
 
-📁 **Code**: `/signal_processing/sar_reconstruction/`
+<!-- 📁 **Code**: `/signal_processing/sar_reconstruction/` -->
 
 ### 3. **DTCWT Denoising for Near-Field SAR Images**
 
@@ -47,7 +47,7 @@ Developed and validated wavelet-based noise reduction algorithm:
 - Implemented **Dual-Tree Complex Wavelet Transform** with real/imaginary filter branches
 - **Performance**: Improved PSNR by 8-12 dB across test distances.
 
-📁 **Code**: `/signal_processing/wavelet_denoising/`
+<!-- 📁 **Code**: `/signal_processing/wavelet_denoising/` -->
 
 ## Collaborative Components
 

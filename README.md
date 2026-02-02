@@ -15,6 +15,18 @@ Internal defect detection in manufacturing requires expensive, slow equipment. T
 
 **This repository showcases my contributions** to the **hardware**, **signal processing**, and **image reconstruction** components of the complete system.
 
+## Collaboration & Joint Development
+
+This project demonstrates hardware-software co-design between Inha University and the University of Southern California:
+
+- **Inha (Hardware)**: Built the physical scanning system and image preprocessing.
+- **USC (Software)**: Developed the automated defect localization using **Process-Informed Smooth Sparse Decomposition (PISSD)**.
+- **Joint**: Experimental validation and paper writing.
+
+**My role**: Provided SAR images and experimental data; collaborated on algorithm validation. The PISSD algorithm decomposes images into background/defect/noise components using domain-informed basis functions.
+
+For details on PISSD implementation, see the published paper or contact the USC team.
+
 ## My Contributions (Inha)
 
 ### 1. **Compact mmWave Radar System Design**
@@ -49,29 +61,7 @@ Developed and validated wavelet-based noise reduction algorithm:
 
 <!-- 📁 **Code**: `/signal_processing/wavelet_denoising/` -->
 
-## Collaborative Components
 
-### Defect Detection Algorithm (USC Team)
-
-The automated defect localization using Process-Informed Smooth Sparse
-Decomposition (PISSD) was developed by University of Southern California.
-
-**My role**: Provided SAR images and experimental data; collaborated on
-algorithm validation.
-
-**Their algorithm**: Decomposed images into background/defect/noise
-components using domain-informed basis functions.
-
-For details on PISSD implementation, see the published paper or contact
-the USC team.
-
-## Collaboration Model
-
-This project demonstrates hardware-software co-design:
-
-- **Inha (Hardware)**: Built the physical scanning system and image preprocessing
-- **USC (Software)**: Developed the automated detection algorithms
-- **Joint**: Experimental validation and paper writing
 
 ## Technical Skills Demonstrated
 
@@ -85,3 +75,22 @@ This project demonstrates hardware-software co-design:
 - FMCW radar signal processing
 - SAR image reconstruction algorithms
 - Wavelet transform implementation
+
+## Citation 
+
+```bibtex
+@article{bui2025automated,
+  title={Automated Internal Defect Identification and Localization Based on a Near-Field SAR Millimeter-Wave Imaging System},
+  author={Bui, Quoc Cuong and Lin, Weizhi and Huang, Qiang and Byun, Gyung-Su},
+  journal={IEEE Access},
+  year={2025},
+  publisher={IEEE}
+}
+}
+```
+
+
+<div align="center">
+⭐ Star this repo if you find it useful!
+</div>
+

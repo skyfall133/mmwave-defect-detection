@@ -2,7 +2,7 @@
 
 **This mmWave SAR imaging system was developed as a collaborative research project between Inha University (South Korea) and University of Southern California (USA).**
 
-> Part of collaborative research published in IEEE Access 2025
+> This repository is part of collaborative research published in IEEE Access 2025
 > DOI: [10.1109/ACCESS.2025.3531913]
 
 ## Project Context
